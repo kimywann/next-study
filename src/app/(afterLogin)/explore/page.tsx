@@ -1,5 +1,3 @@
-import styles from "@/app/(afterLogin)/explore/page.module.css";
-
-export default function () {
-  return <div className={styles.container}>검색 페이지</div>;
+export default function Home() {
+  return <main>검색 페이지</main>;
 }

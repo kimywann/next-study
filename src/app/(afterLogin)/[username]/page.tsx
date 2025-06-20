@@ -1,7 +1,3 @@
-export default function UserName() {
-  return (
-    <div>
-      <div>유저</div>
-    </div>
-  );
+export default function Profile() {
+  return <main>프로필페이지</main>;
 }
