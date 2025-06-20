@@ -8,7 +8,7 @@ export default function LogoutButton() {
     id: "zerohch0",
     nickname: "제로초",
     image: "/5Udwvqim.jpg",
-  };
+  }; 
 
   const onLogout = () => {};
 
